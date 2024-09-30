@@ -1,11 +1,13 @@
 **Name:** Dami Kim
+
 **Project:** Fish Street Cemetery
+
 **Project description:** Coded by Java, this program allows the user to find the people buried on a specific date, within a range of dates, and at a specific location within two dates. 
 The user can also tell the program to output the total number of burials at the cemetery and the full list of people buried. 
 
 To run the program, run Main.java.
 
-#1.
+# 1.
 Once the program prompts for a date, make sure to write it in a mm/dd/yyyy format.
 
 Sample input) 
@@ -15,7 +17,7 @@ Sample output)
 John William ALLARDYCE , 3/17/1844, 2 years 9 months 0 days old, Little Knight Ryder Street 
 
 
-#2.
+# 2.
 Then, the program will prompt for a date range and a location. Make sure that the dates are still in the mm/dd/yyyy format and the dates and location are separated by commas. 
 The location should be strictly formatted the way it is on the text file (Upper cases and lower cases). The program will output the people buried within that date range, the number of people,
 and their average age. 
@@ -33,7 +35,7 @@ Number of people: 3
 Average age: 2 years 2 months 6 days old
 
 
-#3.
+# 3.
 Next, the program will prompt for only a date range. Make sure the dates are formatted in mm/dd/yyyy. The program will output the people buried withint that date range, the number of people,
 and their average age.
 
@@ -49,7 +51,7 @@ William HURN , 2/6/1826, 0 years 2 months 0 days old, Lambeth Hill
 Number of people: 4
 Average age: 17 years 7 months 16 days old
 
-#4.
+# 4.
 Then, the program will ask whether to print the total number of burials or not. If inputted "yes", it will print the total number of burials and if "no", it will move on to the next question.
 
 Sample input)
@@ -58,7 +60,7 @@ yes
 Sample output)
 A total of 610 people are in fish street cemetery.
 
-#5.
+# 5.
 Lastly, the program will ask whether to display all burials. If inputted "yes", it will print everyone buried and their information in ascending order and if "no", 
 it will not print anything.
 
