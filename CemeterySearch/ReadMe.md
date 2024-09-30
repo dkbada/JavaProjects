@@ -7,7 +7,7 @@ The user can also tell the program to output the total number of burials at the 
 
 To run the program, run Main.java.
 
-# 1.
+## 1.
 Once the program prompts for a date, make sure to write it in a mm/dd/yyyy format.
 
 Sample input) 
