@@ -107,4 +107,4 @@ Henry HARTRUP , 10/24/1813, 1 years 7 months 0 days old, Green Arbour Court, Lam
 
 Henry BEAUMONT , 11/21/1813, 1 years 9 months 0 days old, Old Change 
 
-...
+. . .
