@@ -1,6 +1,6 @@
 **Name:** Dami Kim
 
-**Project:** Fish Street Cemetery
+**Project:** Cemetery Search
 
 **Project description:** Coded by Java, this program allows the user to find the people buried on a specific date, within a range of dates, and at a specific location within two dates. 
 The user can also tell the program to output the total number of burials at the cemetery and the full list of people buried. 
